@@ -1,4 +1,4 @@
-appengine-skeleton
+Gae Test
 =============================
 
-This is a generated application from the appengine-skeleton archetype.
+App de Test do Gae
